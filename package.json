@@ -1,0 +1,23 @@
+{
+  "name": "@kingjethro/web",
+  "version": "1.0.7",
+  "description": "THE BEST REACT JS CLI WIZARD MADE BY, King Jethro",
+  "license": "MIT",
+  "author": "King Jethro",
+  "type": "module",
+  "main": "bin/web.js",
+  "bin": {
+    "web": "bin/web.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0",
+    "inquirer": "^12.4.3",
+    "ora": "^8.2.0"
+  },
+  "keywords": []
+}
